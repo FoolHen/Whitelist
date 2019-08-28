@@ -1,0 +1,9 @@
+{
+	"Name": "Whitelist",
+	"Authors": ["FoolHen"],
+	"Description": "A whitelist for VeniceUnleashed",
+	"URL": "",
+	"Version": "0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true
+}
